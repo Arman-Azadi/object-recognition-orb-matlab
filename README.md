@@ -49,4 +49,4 @@ The system performs two main steps:
 
 ## 📊 Results
 The system successfully segments objects and classifies them by matching keypoints.
-*(See `Technical_Report.docx` for detailed process flow and detection examples.)*
+*(See `Technical_Report.pdf` for detailed process flow and detection examples.)*
